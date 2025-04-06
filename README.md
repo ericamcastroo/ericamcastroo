@@ -4,9 +4,9 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/jessicamedeirosp?label=Follow&style=social)
 
 - :computer: Desenvolvedora Back-end
-- :open_book: Aluna na Cubos Academy
-- :mortar_board: Cursando Desenvolvimento de Software com foco em back-end na Cubos Academy
-- :clapper: Modelo e blogueira nas horas vagas
+- :open_book: Aluna no Senai (Desenvolvimento de Sistemas)
+- :mortar_board: Desenvolvimento de Software com foco em back-end na Cubos Academy
+- :clapper: Modelo e promotora de eventos
 
 ### Redes Sociais
 
